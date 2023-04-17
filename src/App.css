@@ -35,14 +35,16 @@
   color: rgb(99, 99, 184);
 }
 
-.links li a:focus {
-  text-decoration: underline;
-  color: green;
-
-}
 a {
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: 700;
   font-style: normal;
 }
+
+.links li a:focus {
+  text-decoration: underline;
+  color: green;
+}
+
+
