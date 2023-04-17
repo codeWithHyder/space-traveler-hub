@@ -15,7 +15,7 @@
   align-items: center;
   margin-left: 1rem;
   font-size: 2rem;
-  justify-content:space-evenly;
+  justify-content: space-evenly;
   padding: 1rem;
 }
 
@@ -46,5 +46,3 @@ a {
   text-decoration: underline;
   color: green;
 }
-
-
