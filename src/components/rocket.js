@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Button } from 'react-bootstrap';
 import Badge from 'react-bootstrap/Badge';
 import { useDispatch } from 'react-redux';
-import { bookRocket, cancelBooking } from '../redux/rockets/rocketsSlice';
+import { bookRocket, cancelBooking } from '../redux/rockets/rocketsSlice.js';
 import './styles/Rocket.css';
 
 const Rocket = ({ rocket }) => {
