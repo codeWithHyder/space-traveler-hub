@@ -1,0 +1,35 @@
+.nav-bar {
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  margin: 0 2rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.links {
+  display: flex;
+  list-style-type: none;
+  gap: 1rem;
+  color: blue;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.active {
+  text-decoration: underline;
+  border-bottom: 2px solid blue;
+}
