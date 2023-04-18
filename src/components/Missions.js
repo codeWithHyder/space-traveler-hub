@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchMissions } from '../redux/missions/Missions';
+import { fetchMissions } from '../redux/missions/Missions.js';
 import './styles/Missions.css';
 import Mission from './Mission';
 import Loader from './Loader';
