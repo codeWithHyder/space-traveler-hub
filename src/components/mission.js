@@ -1,11 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { useDispatch } from 'react-redux';
+import { fetchMissions } from '../redux/missions/missionsSlice';
 
-function Mission() {
+const Missions = () => {
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(fetchMissions());
+  }, [dispatch]);
   return (
-    <div>
-      <h1>Mission will be implemented soon!</h1>
-    </div>
-  );
-}
 
-export default Mission;
+    <div>Missions</div>
+  );
+};
+
+export default Missions;
