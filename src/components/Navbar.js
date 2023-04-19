@@ -10,7 +10,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="leftnav">
         <img src={logo} alt="logo" className="logo" />
-        <h2>Space Travelers&apos; Hub</h2>
+        <h2>Space Travelers&apos; Hubs</h2>
       </div>
       <ul className="links">
         <li><NavLink to="/" className="defaultlink">Rockets |</NavLink></li>
