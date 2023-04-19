@@ -4,7 +4,8 @@
   justify-content: space-between;
   padding: 10px;
   align-items: center;
-  margin: 0 2rem;
+  margin: 0 0.1rem;
+  background-color: cornsilk;
 }
 
 .logo {
@@ -22,11 +23,12 @@
   display: flex;
   list-style-type: none;
   gap: 1rem;
-  color: blue;
+  color: rgb(21, 135, 201);
 }
 
 .links a {
   text-decoration: none;
+  font-weight: 400;
 }
 
 .active {
