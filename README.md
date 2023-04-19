@@ -92,13 +92,14 @@ The Project has been deployed in the link below.
 
 - GitHub: [@codeWithHyder](https://github.com/codeWithHyder)
 - Twitter: [@Hyder](https://twitter.com/@hyder3512)
-- LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar-165653206/)
+- LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar/)
 
-**Inayat Khan**
+**Inayat-khan**
 
-- GitHub: [@Inayat]()
-- Twitter: [@Inayat]()
-- LinkedIn: [Inayat]()
+- GitHub: [@githubhandle](https://github.com/Khanetmoi)
+- Twitter: [@twitterhandle](https://twitter.com/InayatVan)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
+
 
 
 
