@@ -19,8 +19,8 @@
       "error",
       "ignorePackages",
       {
-        "js": "off",
-        "jsx": "off"
+        "js": "on",
+        "jsx": "on"
       }
     ],
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
