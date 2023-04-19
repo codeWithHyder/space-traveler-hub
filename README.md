@@ -94,14 +94,12 @@ The Project has been deployed in the link below.
 - Twitter: [@Hyder](https://twitter.com/@hyder3512)
 - LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar/)
 
+
 **Inayat-khan**
 
 - GitHub: [@githubhandle](https://github.com/Khanetmoi)
 - Twitter: [@twitterhandle](https://twitter.com/InayatVan)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
