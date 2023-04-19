@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Missions correctly 1`] = `
+<div
+  className="container-fluid px-5"
+>
+  <table
+    className="table table-hover table-striped table-responsive"
+  >
+    <thead>
+      <tr>
+        <th
+          className="heading"
+          scope="col"
+        >
+          Missions
+        </th>
+        <th
+          className="heading"
+          scope="col"
+        >
+          Description
+        </th>
+        <th
+          className="heading"
+          scope="col"
+        >
+          Status
+        </th>
+        <th
+          className="heading"
+          scope="col"
+        >
+           
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;

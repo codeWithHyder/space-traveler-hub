@@ -5,7 +5,8 @@
   padding: 10px;
   align-items: center;
   margin: 0 0.1rem;
-  background-color: cornsilk;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 0.1rem grey solid;
 }
 
 .logo {
@@ -33,5 +34,5 @@
 
 .active {
   text-decoration: underline;
-  border-bottom: 2px solid blue;
+  border-bottom: 2px solid rgb(42, 153, 180);
 }
