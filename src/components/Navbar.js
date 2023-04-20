@@ -1,9 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-// import MyProfile from './views/myprofile';
 import logo from './logo.png';
-// import Rocket from './views/rocket';
-// import Mission from './views/mission';
 
 function Navbar() {
   return (
