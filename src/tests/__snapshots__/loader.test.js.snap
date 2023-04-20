@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test loader render 1`] = `
+<div
+  className="lds-ring"
+>
+  <div />
+  <div />
+  <div />
+  <div />
+</div>
+`;
