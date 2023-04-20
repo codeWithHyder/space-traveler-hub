@@ -1,0 +1,37 @@
+.nav-bar {
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  margin: 0 0.1rem;
+  background-color: cornsilk;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.links {
+  display: flex;
+  list-style-type: none;
+  gap: 1rem;
+  color: rgb(21, 135, 201);
+}
+
+.links a {
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.active {
+  text-decoration: underline;
+  border-bottom: 2px solid blue;
+}
