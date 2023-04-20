@@ -1,0 +1,15 @@
+.rockets-list {
+  width: 50%;
+}
+
+.missions-list {
+  width: 50%;
+}
+
+.profile-content {
+  gap: 8%;
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  align-content: space-between;
+}
