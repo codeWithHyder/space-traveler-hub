@@ -14,7 +14,7 @@ const Mission = ({
       <td className="btns">
         {reserved ? (
           <span className="badge text-bg-primary">Active Member</span>
-        ) : (<span className="badge text-bg-secondary">Not A Member</span>
+        ) : (<span className="badge text-bg-secondary">Not an Member</span>
         )}
       </td>
       <td className="btns">
