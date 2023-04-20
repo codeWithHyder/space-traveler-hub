@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Missions correctly 1`] = `
+<tr>
+  <th
+    className="heading"
+    scope="row"
+  />
+  <td
+    className="heading col-lg-7"
+  />
+  <td
+    className="btns"
+  >
+    <span
+      className="badge text-bg-secondary"
+    >
+      Not A Member
+    </span>
+  </td>
+  <td
+    className="btns"
+  >
+    <button
+      className="btn btn-outline-secondary test-small btn-sm"
+      onClick={[Function]}
+      type="button"
+    >
+      Join Mission
+    </button>
+  </td>
+</tr>
+`;

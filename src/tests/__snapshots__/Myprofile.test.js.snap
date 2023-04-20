@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders My Profile correctly 1`] = `
+<div
+  className="profile-content"
+>
+  <div
+    className="missions-list"
+  >
+    <h2>
+      My Missions
+    </h2>
+    <table
+      className="table table-striped table-bordered"
+    >
+      <tbody />
+    </table>
+  </div>
+  <div
+    className="rockets-list"
+  >
+    <h2>
+      My Rockets
+    </h2>
+    <table
+      className="table table-striped table-bordered"
+    >
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
+
+exports[`renders My correctly 1`] = `
+<div
+  className="profile-content"
+>
+  <div
+    className="missions-list"
+  >
+    <h2>
+      My Missions
+    </h2>
+    <table
+      className="table table-striped table-bordered"
+    >
+      <tbody />
+    </table>
+  </div>
+  <div
+    className="rockets-list"
+  >
+    <h2>
+      My Rockets
+    </h2>
+    <table
+      className="table table-striped table-bordered"
+    >
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="profile-content"
+>
+  <div
+    className="missions-list"
+  >
+    <h2>
+      My Missions
+    </h2>
+    <table
+      className="table table-striped table-bordered"
+    >
+      <tbody />
+    </table>
+  </div>
+  <div
+    className="rockets-list"
+  >
+    <h2>
+      My Rockets
+    </h2>
+    <table
+      className="table table-striped table-bordered"
+    >
+      <tbody />
+    </table>
+  </div>
+</div>
+`;

@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getRocketsData } from '../redux/rockets/rocketsSlice';
 import Loader from './Loader';
-import Rocket from './Rocket';
+import Rocket from './rocket';
 
 const Rockets = () => {
   const {

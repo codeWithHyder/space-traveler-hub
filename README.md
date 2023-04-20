@@ -5,7 +5,7 @@
   
   <br/>
 
-  <h3><b>Space Travelers' Hub</b></h3>
+  <h3><h1>Space Travelers' Hub</h1></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 # 📖 Space Travelers' Hub <a name="about-project"></a>
 
-**Space Travelers' Hub** is a simple Project built through react npx create-react-app. User can interact by making reservation for space rockets. In future versions there is going to complete website version of Space Travelers' Hub Project will be developed using react components and redux state management tool. 
+**Space Travelers' Hub** is a simple Project built through react npx create-react-app. User can interact by making reservation for space rockets. In future versions there is going to add more features to the website version of Space Travelers' Hub Project , The tech stack used to develop are react components and redux state management tools. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,7 +48,7 @@ React and redux
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-- [Live Demo](Will be available after final approval)
+- N/A (Will be available after final approval)
 
 
 
@@ -63,7 +63,7 @@ Web Browser, Code Editor.
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: 
 
 Example commands:
 
@@ -92,21 +92,19 @@ The Project has been deployed in the link below.
 
 - GitHub: [@codeWithHyder](https://github.com/codeWithHyder)
 - Twitter: [@Hyder](https://twitter.com/@hyder3512)
-- LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar-165653206/)
+- LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar/)
 
-:bust_in_silhouette: **Inayat-khan**
+
+**Inayat-khan**
 
 - GitHub: [@githubhandle](https://github.com/Khanetmoi)
 - Twitter: [@twitterhandle](https://twitter.com/InayatVan)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[Functionality of fully rocket reservation  will be implemented using components and redux toolkit. Going forward complete UI website will be developed with two links to navigate i.e Rockets, Missions and MyProfile.]**
+....
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
