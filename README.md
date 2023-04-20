@@ -48,7 +48,7 @@ React and redux
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-- [Live Demo] https://codewithhyder.github.io/space-traveler-hub/l)
+- [Live Demo] (https://codewithhyder.github.io/space-traveler-hub/l)
 
 
 
