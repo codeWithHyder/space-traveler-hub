@@ -1,6 +1,6 @@
 import { render } from '@testing-library/react';
 import renderer from 'react-test-renderer';
-import Loader from '../Components/Loader';
+import Loader from '../components/Loader';
 
 it('test loader render', () => {
   const { container } = render(<Loader />);

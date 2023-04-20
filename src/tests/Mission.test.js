@@ -8,7 +8,7 @@ import {
 } from '@testing-library/react';
 import configureMockStore from 'redux-mock-store';
 import store from '../redux/store';
-import Mission from '../Components/Mission';
+import Mission from '../components/mission';
 
 it('renders Missions correctly', () => {
   const tree = renderer.create(

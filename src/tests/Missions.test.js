@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from '../redux/store';
-import Missions from '../Components/Missions';
+import Missions from '../components/Missions';
 
 it('renders Missions correctly', () => {
   const tree = renderer.create(

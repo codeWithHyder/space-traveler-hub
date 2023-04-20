@@ -3,8 +3,8 @@ import renderer from 'react-test-renderer';
 import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import store from '../redux/store';
-import Rockets from '../Components/Rockets';
-import Rocket from '../Components/Rocket';
+import Rockets from '../components/Rockets';
+import Rocket from '../components/rocket';
 import RocketTest from './rockets/rocketsReducer';
 import '@testing-library/jest-dom';
 
