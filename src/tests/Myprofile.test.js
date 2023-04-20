@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer';
 import { BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from '../redux/store';
-import Myprofile from '../components/myprofile';
+import Myprofile from '../components/Myprofile';
 
 it('renders My Profile correctly', () => {
   const tree = renderer

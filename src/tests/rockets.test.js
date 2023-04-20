@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import store from '../redux/store';
 import Rockets from '../components/Rockets';
-import Rocket from '../components/rocket';
+import Rocket from '../components/Rocket';
 import RocketTest from './rockets/rocketsReducer';
 import '@testing-library/jest-dom';
 
