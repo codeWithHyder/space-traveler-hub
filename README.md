@@ -48,7 +48,7 @@ React and redux
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-- N/A (Will be available after final approval)
+- [Live Demo] https://codewithhyder.github.io/space-traveler-hub/l)
 
 
 
