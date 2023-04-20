@@ -15,7 +15,7 @@ exports[`renders Missions correctly 1`] = `
     <span
       className="badge text-bg-secondary"
     >
-      Not A Member
+      Not an Member
     </span>
   </td>
   <td

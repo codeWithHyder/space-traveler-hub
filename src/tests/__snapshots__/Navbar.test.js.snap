@@ -35,7 +35,7 @@ exports[`test Navbar rendering 1`] = `
         href="/missions"
         onClick={[Function]}
       >
-        Missions
+        | Missions
       </a>
     </li>
     <span

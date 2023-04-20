@@ -1,9 +1,9 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Missions from './components/Missions';
-import Myprofile from './components/myprofile';
-import Navbar from './components/Navbar';
-import Rockets from './components/Rockets';
+import Missions from './Components/Missions';
+import Myprofile from './Components/Myprofile';
+import Navbar from './Components/Navbar';
+import Rockets from './Components/Rockets';
 
 function App() {
   return (
