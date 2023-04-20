@@ -1,0 +1,31 @@
+.rocket-card {
+  display: flex;
+  width: 90%;
+  margin: 2rem auto;
+  gap: 1rem;
+}
+
+.rocket-img {
+  width: 250px;
+  height: 200px;
+}
+
+.rocket-name {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.rocket-description {
+  margin: 0;
+  padding-top: 0.5rem;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.reserve-rocket {
+  margin-top: 1.5rem;
+}
+
+.reserve-badge {
+  margin-right: 1rem;
+}
